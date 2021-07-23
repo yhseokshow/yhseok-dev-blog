@@ -1,0 +1,9 @@
+[submodule "themes/FeelIt"]
+	path = themes/FeelIt
+	url = https://github.com/khusika/FeelIt.git
+[submodule "themes/hugo-theme-pure"]
+	path = themes/hugo-theme-pure
+	url = https://github.com/xiaoheiAh/hugo-theme-pure.git
+[submodule "themes/hugo-theme-bootstrap"]
+	path = themes/hugo-theme-bootstrap
+	url = https://github.com/razonyang/hugo-theme-bootstrap

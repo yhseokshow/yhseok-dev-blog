@@ -1,0 +1,9 @@
+[en]
+  languageName = "English"
+  weight = 1
+  contentDir = "content/en"
+
+[kr]
+  languageName = "Korean"
+  weight = 2
+  contentDir = "content/kr"
