@@ -1,0 +1,9 @@
+name	= "Yhseok"
+company = "altiMedia"
+location = "Location"
+bio = "Gopher, C++, Vuejs Engineer."
+
+# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
+
+
