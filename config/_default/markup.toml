@@ -5,7 +5,7 @@
   hl_Lines = ""
   lineAnchors = ""
   lineNoStart = 1
-  lineNos = false
+  lineNos = true
   lineNumbersInTable = false
   noClasses = true
   style = "monokai"

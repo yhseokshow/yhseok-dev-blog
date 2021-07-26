@@ -1,20 +1,11 @@
-+++
-title = "Tcpdump"
-date = 2021-07-21T11:49:22+09:00
-draft = false
-featured = true
-categories = [
-  "Cheet Sheet"
-]
-tags = [
-  "network", "css", "Math"
-]
-series = [
-  "User Manual"
-]
-images = [
-]
-+++
+---
+title: "Tcpdump Usage"
+date: 2021-07-19T10:01:29+09:00
+description: "Guide to emoji usage in Hugo"
+featured: true
+tags: ["golang", "syntax", "package"]
+categories: ["golang"]
+---
 
 ## tcpdump 파라미터 (간단히)
 ```
