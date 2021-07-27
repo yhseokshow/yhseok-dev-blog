@@ -1,6 +1,6 @@
 [build]
 publish = "dist"
-command = "hugo --minify -D -b=https://yhseok-dev-blog.netlify.app/"
+command = "hugo --gc --minify -D"
 
 [context.production.environment]
 HUGO_VERSION = "0.85.0"
