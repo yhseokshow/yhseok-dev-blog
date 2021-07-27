@@ -1,6 +1,6 @@
 name	= "Yhseok"
-company = "altiMedia"
-location = "Location"
+#company = "*****"
+#location = "Location"
 bio = "Gopher, C++, Vuejs Engineer."
 
 # avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".

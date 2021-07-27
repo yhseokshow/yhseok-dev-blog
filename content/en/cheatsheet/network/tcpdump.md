@@ -1,10 +1,10 @@
 ---
 title: "Tcpdump Usage"
 date: 2021-07-19T10:01:29+09:00
-description: "Guide to emoji usage in Hugo"
+description: "Tcpdump Usage Cheat Sheet"
 featured: true
-tags: ["golang", "syntax", "package"]
-categories: ["golang"]
+tags: ["network", "tcpdump", "wireshark", "cheatsheet"]
+categories: ["network"]
 ---
 
 ## tcpdump 파라미터 (간단히)
