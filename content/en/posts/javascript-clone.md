@@ -15,7 +15,7 @@ categories: ["javascript"]
 * [Javascript - deep copy가 필요할 때 무얼 사용해야 할까?](http://hochulshin.com/javascript-best-deepcopy/)
 * [medium - JavaScript Deep copy for array and object](https://medium.com/@gamshan001/javascript-deep-copy-for-array-and-object-97e3d4bc401a)
 
-### 얕은 복사 (hallow copy)
+### 얕은 복사 (shallow copy)
 * [ES6 자바스크립트 내장]
   ```javascript
   let copy = Object.assign({}, object);
