@@ -7,6 +7,8 @@ copyright = "Copyright © 2016-{year} Yhseok. All Rights Reserved."
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 
+#publishDir = "dist" # default: "public"
+
 # Pagination
 paginate = 5
 # paginatePath = "page"
